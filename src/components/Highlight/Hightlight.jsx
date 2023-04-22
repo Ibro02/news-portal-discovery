@@ -38,7 +38,7 @@ const Hightlight = () => {
               }
               })}
       </div>
-      {news.articles.length >= limit && <button className=" bg-black text-white p-4 mt-5 shadow-md transition-all hover:shadow-none shadow-gray-300" onClick={()=>{setLimit(limit + 15)}}>See more</button>}        
+      {news.articles.length >= limit && <button className="bg-black text-white hover:text-black hover:border-2 hover:bg-white p-4 mt-5 shadow-xl transition-all hover:shadow-none shadow-gray-300" onClick={()=>{setLimit(limit + 15)}}>See more</button>}        
     </div>
   );
 };
