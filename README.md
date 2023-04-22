@@ -4,7 +4,7 @@
 
 Clone using SSH 
 
-`git clone git@github.com:Ibro02/news-portal-discovery.git` or `git clone` (link of repository)
+`git clone git@github.com:Ibro02/news-portal-discovery.git` or `git clone https://github.com/Ibro02/news-portal-discovery.git`
 
 Change directory to the cloned 'news-portal' folder
 
